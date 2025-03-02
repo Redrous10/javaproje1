@@ -6,7 +6,7 @@ public class LoginTesti {
         System.out.println("Yeni Login Testi");
         // çok satır yazdınm bitirdim
         System.out.println("Login Testi 1");
-
+        System.out.println("sepet testi yazıldı bitirildi 3 günlük kodyazıldı");
 
     }
 }
